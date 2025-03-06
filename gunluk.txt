@@ -1,0 +1,5 @@
+& C:/Users/asyao/AppData/Local/Programs/Python/Python312/python.exe c:/Users/asyao/OneDrive/Belgeler/GitHub/asyaodev4/2.gorev.py
+asya
+& C:/Users/asyao/AppData/Local/Programs/Python/Python312/python.exe c:/Users/asyao/OneDrive/Belgeler/GitHub/asyaodev4/4.gorev.py
+merhaba
+& C:/Users/asyao/AppData/Local/Programs/Python/Python312/python.exe c:/Users/asyao/OneDrive/Belgeler/GitHub/asyaodev4/3.gorev.py
